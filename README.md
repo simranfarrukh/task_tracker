@@ -1,4 +1,4 @@
-# Mimi's Flask Task Tracker
+# Flask Task Tracker
 
 A simple task tracker built using SQLAlchemy & SQLite Database.
 
